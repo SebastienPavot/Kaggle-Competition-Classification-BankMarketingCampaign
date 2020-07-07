@@ -8,4 +8,4 @@
 *.Rmd	  text
 *.R  	  text
 *.Rproj text
-*.ipynb linguist-language=Java
+*.ipynb linguist-language=R
