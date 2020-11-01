@@ -1,11 +1,11 @@
-*.Rdata linguist-language=R
-*.RData linguist-language=R
+*.Rdata linguist-language=None
+*.RData linguist-language=None
 *.rda   binary
 *.rdb   binary
 *.rds   binary
 *.Rd    text
 *.Rdx   binary
-*.Rmd	  linguist-language=R
+*.Rmd	  linguist-language=None
 *.R  	  linguist-language=R
-*.Rproj linguist-language=R
+*.Rproj linguist-language=None
 *.ipynb linguist-language=R
