@@ -8,4 +8,4 @@
 *.Rmd	  linguist-language=None
 *.R  	  linguist-language=R
 *.Rproj linguist-language=None
-*.ipynb linguist-language=R
+*.ipynb linguist-language=None
